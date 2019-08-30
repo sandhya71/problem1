@@ -1,4 +1,5 @@
-# to cheack the equality of 2 integer arrays 
+# problem1:
+to cheack the equality of 2 integer arrays 
 Test case-1
 
 input 
@@ -14,3 +15,5 @@ input
  b[]={1,3,2,4}
  output
  arrays r not equal
+ 
+ #problem2
